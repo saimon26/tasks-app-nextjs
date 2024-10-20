@@ -1,4 +1,4 @@
-A simple task management app built using Next.js and React. The app allows users to add, edit, delete, and search tasks. It also includes features like task sorting by priority and completion status, as well as storing tasks locally in the browser.
+This is a task management app built using Next.js and React. The app allows users to add, edit, delete, and search tasks. It also includes features like task sorting by priority and completion status, as well as storing tasks locally in the browser.
 
 // Setup Instructions
 Prerequisites
